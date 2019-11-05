@@ -493,7 +493,7 @@ img{
 
 .scroll-to-top:hover{
 	color:#ffffff;
-	background:#eb34a7;
+	background:#099aed;
 }
 
 /***
@@ -4564,12 +4564,12 @@ img{
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
-	background-image: -ms-linear-gradient(top, #1D07A3 0%, #f500f3 100%);
-	background-image: -moz-linear-gradient(top, #1D07A3 0%, #f500f3 100%);
-	background-image: -o-linear-gradient(top, #1D07A3 0%, #f500f3 100%);
-	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #1D07A3), color-stop(100, #f500f3));
-	background-image: -webkit-linear-gradient(top, #1D07A3 0%, #f500f3 100%);
-	background-image: linear-gradient(to bottom, #1D07A3 0%, #f500f3 100%);
+	background-image: -ms-linear-gradient(top, #1D07A3 0%, #00c1f5 100%);
+	background-image: -moz-linear-gradient(top, #1D07A3 0%, #00c1f5 100%);
+	background-image: -o-linear-gradient(top, #1D07A3 0%, #00c1f5 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #1D07A3), color-stop(100, #00c1f5));
+	background-image: -webkit-linear-gradient(top, #1D07A3 0%, #00c1f5 100%);
+	background-image: linear-gradient(to bottom, #1D07A3 0%, #00c1f5 100%);
 }
 
 .accordion-box .block .icon-outer .icon{
@@ -6327,7 +6327,7 @@ img{
 
 .services-detail .inner-box .lower-content .text h3{
 	position:relative;
-	color:#ff7e00;
+	color:#029AED;
 	font-size:24px;
 	font-weight:700;
 	margin-bottom:12px;
